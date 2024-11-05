@@ -32,7 +32,7 @@ Este aplicativo em Python verifica a compatibilidade entre tipos sanguíneos de 
    ```
 2. **Execute o script:**
    ```bash
-   python seu_script.py 
+   python script.py 
    ```
 
 **Como usar:**

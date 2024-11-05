@@ -1,0 +1,2 @@
+# aplicativo_verificador_compatibilidade_sanguinea
+Aplicativo para verificar compatibilidade sanguinea

@@ -7,7 +7,6 @@ Este aplicativo em Python verifica a compatibilidade entre tipos sanguíneos de 
 * Seleção dos tipos sanguíneos do doador e receptor através de menus dropdown.
 * Verificação da compatibilidade entre os tipos sanguíneos.
 * Exibição de mensagem indicando se a doação é compatível ou não.
-* Exibição de uma imagem de coração animado em caso de compatibilidade.
 
 **Requisitos:**
 
